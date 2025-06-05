@@ -36,7 +36,7 @@ The project includes:
 
 ### Prerequisites
 
-- .NET 6.0 SDK or later
+- .NET 8.0 SDK
 - Visual Studio 2022 or VS Code
 - SQL Server (Local or Express)
 
@@ -66,8 +66,3 @@ dotnet run
 
 The API includes a single endpoint for managing discount settings.
 
-## Contributing
-
-1. Create a new branch for your feature
-2. Make your changes
-3. Submit a pull request
