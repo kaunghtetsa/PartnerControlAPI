@@ -64,18 +64,10 @@ dotnet run
 
 ## API Documentation
 
-The API includes endpoints for:
-- Creating new discount settings
-- Updating existing discount rules
-- Retrieving discount configurations
-- Activating/deactivating discount rules
+The API includes a single endpoint for managing discount settings.
 
 ## Contributing
 
 1. Create a new branch for your feature
 2. Make your changes
 3. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
